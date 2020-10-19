@@ -1,0 +1,40 @@
+[
+  {
+    "id": 0,
+    "hungarian": "macska",
+    "spanish": [
+      "el gato",
+      "la gata"
+    ],
+    "pic": "cat.jpeg",
+    "type": "képes"
+  },
+  {
+    "id": 1,
+    "hungarian": "kutya",
+    "spanish": [
+      "el perro",
+      "la perra"
+    ],
+    "pic": "dog.jpeg",
+    "type": "képes"
+  },
+  {
+    "id": 2,
+    "hungarian": "labda",
+    "spanish": [
+      "la pelota"
+    ],
+    "pic": "ball.jpeg",
+    "type": "képes"
+  },
+  {
+    "id": 0,
+    "hungarian": "kalap",
+    "spanish": [
+      "el sombrero"
+    ],
+    "pic": "hat.jpeg",
+    "type": "képes"
+  }
+]
